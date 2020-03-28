@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VolleyExample</string>
+    <string name="btnVolleyGet">Volley Get</string>
+    <string name="btnVolleyPost">Volley Post</string>
+    <string name="btnAsyncVolleyGet">Async Volley Get</string>
+    <string name="btnAsyncVolleyPost">Async Volley Post</string>
+</resources>
